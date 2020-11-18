@@ -1,7 +1,7 @@
 
 ### Hey there, ThePiGuy here
 
-[![Website](https://img.shields.io/website?label=forbiddencraft.xyz/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) [![Twitter Follow](https://img.shields.io/twitter/follow/KunalADandekar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=forbiddencraft.xyz/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website] [![Twitter Follow](https://img.shields.io/twitter/follow/KunalADandekar?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a fullstack developer with no social life!! And a game dev
 - 👀 Still on the path from game dev to fullstack
@@ -9,7 +9,15 @@
 - 🌟 Fun fact: I love to watch anime and play games
 - 🎮 Working with [IntegrumX](https://github.com/ix-os) on BloodMoon in [Unity](https://connect.unity.com/u/bhubhu-barks)
 
+### Connect with me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ### Languages and Tools:
 
@@ -29,3 +37,10 @@
 
 #### My Github Stats, good eh?
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RocKing1001&show_icons=true&hide_border=true" />
+
+
+[website]: https://forbiddencraft.xyz/
+[twitter]: https://twitter.com/KunalADandekar
+[youtube]: https://www.youtube.com/channel/UCFhBqHPR3EjbaLWp5iMIXcA?view_as=subscriber
+[instagram]: https://www.instagram.com/kunal_dandekar_no1/
+[linkedin]: https://www.linkedin.com/in/kunal-dandekar-9ba5401a8/
